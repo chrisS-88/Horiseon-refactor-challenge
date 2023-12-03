@@ -8,7 +8,7 @@ A title for the webpage has been added to improve SEO.
 
 I added semantic elements to HTML file to improve accessibility and corrected the broken 'search-engine-optimization' link.
 
-I have condensed the CSS secectors and properties to follow a semantic structure, bringing the file from 200 lines of code down to 144 lines while keeping the same functionality and omitting repeated code.
+I have condensed the CSS secectors and properties and organised to follow a semantic structure, bringing the file from 200 lines of code down to 144 lines while keeping the same functionality and omitting repeated code.
 
 Alternate text has been added to all images to improve accessibility.
 
