@@ -18,6 +18,10 @@ CSS comments have also been added to improve readability.
 
 !(./assets/screenshot.png?raw=true "screenshot of webpage after refactoring")
 
+## Link to finished application
+
+https://chriss-88.github.io/Horiseon-refactor-challenge/
+
 ## Installation
 
 n/a
