@@ -16,7 +16,7 @@ CSS comments have also been added to improve readability.
 
 ## Screenshot
 
-![project screenshot](assets/images/screenshot.png)
+![project screenshot](assets/screenshot.png)
 
 ## Link to finished application
 
