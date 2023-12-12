@@ -16,7 +16,7 @@ CSS comments have also been added to improve readability.
 
 ## Screenshot
 
-!(./assets/screenshot.png?raw=true "screenshot of webpage after refactoring")
+!(assets/screenshot.png?raw=true "screenshot of webpage after refactoring")
 
 ## Link to finished application
 
