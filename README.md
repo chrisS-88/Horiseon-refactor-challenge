@@ -16,11 +16,11 @@ CSS comments have also been added to improve readability.
 
 ## Screenshot
 
-![project screenshot](assets/screenshot.png)
+<img src="assets/screenshot.png" width="400">
 
 ## Link to finished application
 
-https://chriss-88.github.io/Horiseon-refactor-challenge/
+https://chriss-88.github.io/My-First-Refactored-Webpage/
 
 ## Installation
 
